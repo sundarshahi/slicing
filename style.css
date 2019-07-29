@@ -1,0 +1,99 @@
+.rectangle-copy-2 {
+	height: 236px;
+	width: 249px;
+	border-radius: 6px;
+	background-color: #FFFFFF;
+	box-shadow: 0 6px 16px 0 rgba(46,91,255,0.07);
+}
+
+.rectangle {
+	height: 1055px;
+	width: 906px;
+	border-radius: 6px;
+	background-color: #FFFFFF;
+	box-shadow: 0 6px 16px 0 rgba(46,91,255,0.07);
+}
+
+.inner-rectangle {
+	height: 842px;
+	width: 850px;
+	border: 1px solid rgba(172,183,191,0.5);
+	border-radius: 4px;
+	background-color: rgba(224,231,255,0.05);
+}
+
+
+.title {
+	height: 24px;
+	width: 106px;
+	color: #0190FE;
+	font-family: "Nunito Sans";
+	font-size: 20px;
+	font-weight: bold;
+	line-height: 24px;
+}
+
+.title-copy {
+	height: 24px;
+	width: 49px;
+	color: #0190FE;
+	font-family: "Nunito Sans";
+	font-size: 18px;
+	font-weight: bold;
+	line-height: 24px;
+}
+
+.lbl-1 {
+	height: 20px;
+	width: 168.01px;
+	color: rgba(0,0,0,0.65);
+	font-family: "Nunito Sans";
+	font-size: 15px;
+	font-weight: bold;
+	line-height: 20px;
+}
+
+.lbl-2 {
+	height: 20px;
+	width: 189px;
+	color: rgba(0,0,0,0.65);
+	font-family: "Nunito Sans";
+	font-size: 15px;
+	font-weight: bold;
+	line-height: 20px;
+}
+
+.plc {
+	height: 40px;
+	width: 395px;
+	border: 1px solid #E4E9F0;
+	border-radius: 4px;
+	background-color: #FFFFFF;
+}
+
+.chk-list {  
+	height: 14px;
+	width: 86px;
+	color: rgba(0,0,0,0.65);
+	font-family: "Nunito Sans";
+	font-size: 13px;
+	line-height: 14px;
+}
+
+.chkboxjk {
+	height: 16px;
+	width: 16.02px;
+	border: 1px solid #0190FE;
+	border-radius: 2px;
+	background-color: #0190FE;
+}
+
+.chkbox {
+	height: 14px;
+	width: 11.01px;
+	color: #FFFFFF;
+	font-family: Ionicons;
+	font-size: 14px;
+	font-weight: 500;
+	line-height: NaNpx;
+}
